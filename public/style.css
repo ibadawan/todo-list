@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    background-color: rgb(10, 103, 134);
+}
+
+.btn{
+    cursor: pointer;
+}
+
+.li{
+    list-style-type: none;
+}
+.btnn{
+    cursor: pointer;
+}
+
+.todo-item{
+    margin-right: 100px;
+}
